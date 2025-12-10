@@ -1,13 +1,11 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "真空計"
+author: "David Lin"
 date: "2025-12-09"
-categories: [news, code, analysis]
+categories: [vacuum, LINAC]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+加速器常用的真空屬於高真空，需要有低真空計和高真空計。
 
-```{r}
-1 + 1
-```
+由於進入高真空之前，需要有低真空計進行確認，以及機器幫浦是否有正常運作進行監測。
