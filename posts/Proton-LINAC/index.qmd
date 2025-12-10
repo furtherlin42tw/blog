@@ -1,0 +1,10 @@
+---
+title: "Proton LINAC"
+author: "Tristan O'Malley"
+date: "2025-12-06"
+categories: [LINAC, proton, heavy ion]
+---
+
+# Proton LINAC
+
+主要用途是用來加速質子射束，可以用來製造核醫的核種和給予同步加速器。
