@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/LINAC(electron)/index.html",
       "/posts/post-with-code/index.html",
       "/posts/Proton-LINAC/index.html",
       "/posts/welcome/index.html"
