@@ -1,0 +1,22 @@
+---
+title: "真空"
+author: "David"
+date: "2026-05-07"
+categories: [LINAC, Vacuum, 真空]
+---
+
+# 真空幫浦 Vacuum Pump
+
+- Machine Pump
+
+- Turbo Pump
+
+- Ion Pump
+
+# 真空度分類 Type of Vacuum
+
+- Urtal High Vacuum
+
+- High Vacuum
+
+- Low Vacuum
